@@ -14,7 +14,7 @@ public class MailController {
 	@Autowired
 	private MailService notificationService;
 	
-	/* JSON email...
+	/* JSON email de ejemplo
 	{
 	    "mailTo": "sgortiz@poligran.edu.co",
 	    "mailSubject": "Taller 2",

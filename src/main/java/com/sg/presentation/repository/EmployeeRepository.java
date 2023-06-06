@@ -8,4 +8,5 @@ import com.sg.presentation.model.Employee;
 @Repository
 public interface EmployeeRepository extends MongoRepository<Employee, Long>{
 
+
 }
