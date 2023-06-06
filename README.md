@@ -7,7 +7,6 @@ En esta segunda entrega del proyecto se incluyen las cararacterizticas:
 - Integracion con Swagger
 - CRUD completo
 - Envio de correos electronicos
-- Seguridad
-- Integracion de base de datos en Mongo DB
+- Integracion de base de datos no relacional con Mongo DB
 
 Este proyecto se realizó junto con Juan Camilo Garcia Lucas
