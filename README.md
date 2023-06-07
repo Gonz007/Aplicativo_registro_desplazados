@@ -1,6 +1,6 @@
 Este proyecto fue realizado como parte de un proyecto universitario para la clase de desarrollo web con el lenguaje de Java 1.8 y con el framework de Spring boot 2.3.0.
 
-![Mongo crud & Swagger](https://github.com/Gonz007/presentation/blob/2c3b6826e6b00dab4f705010e999471322220732/assets/Swagger_mongo.png)
+![Mongo crud & Swagger](https://github.com/Gonz007/Assets/blob/bffbb4d500254af3beca86438c2538d77eef8265/Swagger_mongo.png)
 
 
 En esta segunda entrega del proyecto se incluyen las cararacterizticas:
